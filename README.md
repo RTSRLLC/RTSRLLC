@@ -30,6 +30,6 @@ Today, our family's struggle has been transformed into a beacon of hope. Our tri
 
 This journey, borne out of personal pain, has not just changed my life, but has the potential to make a significant difference for many others grappling with the enigma of epilepsy.
 
-![Image Description](./IMG_0452.JPG)
-![Image Description](./IMG_0452.JPG)
+![Image Description](./IMG_5410.JPG)
+![Image Description](./IMG_8605.JPG)
 
