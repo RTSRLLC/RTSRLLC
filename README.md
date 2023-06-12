@@ -1,8 +1,9 @@
 # Transcending the Invisible Enemy: My Lifelong Dedication to Epilepsy Diagnosis
 
-![Example Image](./images/example.jpg)
-![Example Image](./images/example.jpg)
-![Example Image](./images/example.jpg)
+![Image Description](./IMG_0085.JPG)
+![Image Description](./IMG_0351.JPG)
+![Image Description](./IMG_0452.JPG)
+![Image Description](./IMG_3184.JPG)
 
 
 Often, life's deepest lessons and motivations sprout from the seeds of our most profound struggles. My inspiration was kindled by my family's unspoken war against epilepsy – a silent enemy veiled within the brain's complex labyrinth, frequently misunderstood, misdiagnosed, and underestimated.
@@ -28,3 +29,7 @@ I expanded my solution to encompass any patient, even those without prior EEG da
 Today, our family's struggle has been transformed into a beacon of hope. Our tribulations have paved the way for a technological breakthrough that may revolutionize epilepsy diagnosis. In the face of adversity, I discovered a life-altering purpose: it drove me to learn, to innovate, and to contribute positively to the world. In the pursuit of this purpose, I unearthed new passions and developed profound expertise in Nonlinear Dynamics, Python, Data Science, and AI – domains that were once foreign to me but are now integral to my existence.
 
 This journey, borne out of personal pain, has not just changed my life, but has the potential to make a significant difference for many others grappling with the enigma of epilepsy.
+
+![Image Description](./IMG_0452.JPG)
+![Image Description](./IMG_0452.JPG)
+
