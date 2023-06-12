@@ -1,10 +1,10 @@
 # Transcending the Invisible Enemy: My Lifelong Dedication to Epilepsy Diagnosis
 
-![Image Description](IMG_0085.JPG){: width="300px" height="300px" style="margin-right: 10px;"}
-![Image Description](IMG_0351.JPG){: width="300px" height="300px"}
+![Image Description](IMG_0085.JPG){: width="50px" height="50px" style="margin-right: 10px;"}
+![Image Description](IMG_0351.JPG){: width="50px" height="50px"}
 
-![Image Description](IMG_0452.JPG){: width="300px" height="300px" style="margin-right: 10px;"}
-![Image Description](IMG_3184.JPG){: width="300px" height="300px"}
+![Image Description](IMG_0452.JPG){: width="50px" height="50px" style="margin-right: 10px;"}
+![Image Description](IMG_3184.JPG){: width="50px" height="50px"}
 
 
 Often, life's deepest lessons and motivations sprout from the seeds of our most profound struggles. My inspiration was kindled by my family's unspoken war against epilepsy – a silent enemy veiled within the brain's complex labyrinth, frequently misunderstood, misdiagnosed, and underestimated.
