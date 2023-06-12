@@ -1,8 +1,8 @@
 # Transcending the Invisible Enemy: My Lifelong Dedication to Epilepsy Diagnosis
 
 <p float="left">
-  <img src="IMG_0085.JPG" alt="Image Description" width="100" height="100" style="margin-right: 10px;">
-  <img src="IMG_0351.JPG" alt="Image Description" width="300" height="100">
+  <img src="IMG_0085.JPG" alt="Image Description" width="200" height="100" style="margin-right: 10px;">
+  <img src="IMG_0351.JPG" alt="Image Description" width="200" height="100">
 </p>
 <p float="left">
   <img src="IMG_0452.JPG" alt="Image Description" width="300" height="300" style="margin-right: 10px;">
