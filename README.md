@@ -1,12 +1,12 @@
 # Transcending the Invisible Enemy: My Lifelong Dedication to Epilepsy Diagnosis
 
 <p float="left">
-  <img src="IMG_0452.JPG" alt="Image Description" width="125" height="150">
+  <img src="IMG_0452.JPG" alt="Image Description" width="150" height="150">
   <img src="IMG_0351.JPG" alt="Image Description" width="150" height="100">
-  <img src="IMG_0085.JPG" alt="Image Description" width="125" height="150">
-  <img src="IMG_3184.jpeg" alt="Image Description" width="125" height="150">
-  <img src="IMG_5410.jpeg" alt="Image Description" width="125" height="150">
-  <img src="IMG_8605.jpeg" alt="Image Description" width="125" height="150">
+  <img src="IMG_0085.JPG" alt="Image Description" width="150" height="150">
+  <img src="IMG_3184.jpeg" alt="Image Description" width="150" height="150">
+  <img src="IMG_5410.jpeg" alt="Image Description" width="150 height="150">
+  <img src="IMG_8605.jpeg" alt="Image Description" width="150" height="150">
 </p>
 
 Often, life's deepest lessons and motivations sprout from the seeds of our most profound struggles. My inspiration was kindled by my family's unspoken war against epilepsy – a silent enemy veiled within the brain's complex labyrinth, frequently misunderstood, misdiagnosed, and underestimated.
@@ -32,7 +32,4 @@ I expanded my solution to encompass any patient, even those without prior EEG da
 Today, our family's struggle has been transformed into a beacon of hope. Our tribulations have paved the way for a technological breakthrough that may revolutionize epilepsy diagnosis. In the face of adversity, I discovered a life-altering purpose: it drove me to learn, to innovate, and to contribute positively to the world. In the pursuit of this purpose, I unearthed new passions and developed profound expertise in Nonlinear Dynamics, Python, Data Science, and AI – domains that were once foreign to me but are now integral to my existence.
 
 This journey, borne out of personal pain, has not just changed my life, but has the potential to make a significant difference for many others grappling with the enigma of epilepsy.
-
-![Image Description](./IMG_5410.JPG)
-![Image Description](./IMG_8605.JPG)
 
