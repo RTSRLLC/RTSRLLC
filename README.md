@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="IMG_0452.JPG" alt="Image Description" width="150" height="150">
-  <img src="IMG_0351.JPG" alt="Image Description" width="230" height="150">
+  <img src="IMG_0351.JPG" alt="Image Description" width="230" height="130">
   <img src="IMG_0085.JPG" alt="Image Description" width="150" height="150">
   <img src="IMG_3184.jpeg" alt="Image Description" width="125" height="150">
   <img src="IMG_5410.jpeg" alt="Image Description" width="150 height="150">
