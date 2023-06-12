@@ -5,7 +5,6 @@
 ![Image Description](./IMG_0452.JPG)
 ![Image Description](./IMG_3184.JPG)
 
-
 Often, life's deepest lessons and motivations sprout from the seeds of our most profound struggles. My inspiration was kindled by my family's unspoken war against epilepsy – a silent enemy veiled within the brain's complex labyrinth, frequently misunderstood, misdiagnosed, and underestimated.
 
 The first casualty in our family was my wife. Her deep frontal lobe seizures eluded conventional EEGs, leading to years of misdiagnosis and even accidental overdose. The resolution, however bitter, was a brain surgery which revealed our true adversary: the incapacity of existing technology to detect "deep brain" seizures.
