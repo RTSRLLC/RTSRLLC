@@ -5,6 +5,8 @@
   <img src="IMG_0351.JPG" alt="Image Description" width="200" height="100">
   <img src="IMG_0452.JPG" alt="Image Description" width="100" height="100" style="margin-right: 10px;">
   <img src="IMG_3184.jpeg" alt="Image Description" width="100" height="100">
+  <img src="IMG_5410.jpeg" alt="Image Description" width="100" height="100">
+  <img src="IMG_8605.jpeg" alt="Image Description" width="100" height="100">
 </p>
 
 Often, life's deepest lessons and motivations sprout from the seeds of our most profound struggles. My inspiration was kindled by my family's unspoken war against epilepsy – a silent enemy veiled within the brain's complex labyrinth, frequently misunderstood, misdiagnosed, and underestimated.
