@@ -1,4 +1,4 @@
-# Transcending the Invisible Enemy: My Lifelong Dedication to Epilepsy Diagnosis
+# Transcending the Invisible Enemy: My Dedication to Epilepsy Diagnosis
 
 <p float="left">
   <img src="IMG_0452.JPG" alt="Image Description" width="150" height="150">
